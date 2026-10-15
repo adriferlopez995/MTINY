@@ -1,0 +1,9 @@
+{
+  "appId": "es.aulatic.mtinyretos",
+  "appName": "mTiny Retos",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "backgroundColor": "#E8F6FF"
+}
